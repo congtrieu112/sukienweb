@@ -217,9 +217,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'cline_sukienweb',
-      'username' => 'cline_sukienweb',
-      'password' => 'AeRGMUaMcT',
+      'database' => 'sukienweb',
+      'username' => 'root',
+      'password' => '',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
