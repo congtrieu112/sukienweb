@@ -1,0 +1,38 @@
+HTTrack3.48-21+htsswf+htsjava launched on Sat, 21 Nov 2015 17:50:21 at https://www.competethemes.com/ignite-live-demo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.competethemes.com/ignite-live-demo/ -O1 "C:\xampp\htdocs\sukienweb\sukienweb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:50:22	Warning: 	Note: due to https://www.competethemes.com remote robots.txt rules, links beginning with these path will be forbidden: /go/ (see in the options to disable this)
+18:02:18	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?paged=2
+18:02:18	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?paged=2 to https://www.competethemes.com/ignite-live-demo/page/2/
+18:03:18	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2019
+18:03:18	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2019 to https://www.competethemes.com/ignite-live-demo/about-2/
+18:04:06	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=703
+18:04:06	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=703 to https://www.competethemes.com/ignite-live-demo/blog/
+18:05:02	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2
+18:05:02	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2 to https://www.competethemes.com/ignite-live-demo/sample-page/
+18:05:02	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2038
+18:05:02	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2038 to https://www.competethemes.com/ignite-live-demo/contact/
+18:05:02	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=1969
+18:05:02	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=1969 to https://www.competethemes.com/ignite-live-demo/this-is-a-standard-post/
+18:05:02	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2014
+18:05:02	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2014 to https://www.competethemes.com/ignite-live-demo/another-awesome-post/
+18:05:04	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2029
+18:05:04	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2029 to https://www.competethemes.com/ignite-live-demo/a-post-without-an-image/
+18:05:04	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2031
+18:05:04	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2031 to https://www.competethemes.com/ignite-live-demo/a-totally-responsive-theme/
+18:05:04	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2035
+18:05:04	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2035 to https://www.competethemes.com/ignite-live-demo/5-posts-per-page/
+18:05:04	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2033
+18:05:04	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2033 to https://www.competethemes.com/ignite-live-demo/a-post-with-lots-of-comments/
+18:05:05	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/?p=2316
+18:05:05	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/?p=2316 to https://www.competethemes.com/ignite-live-demo/blogging-is-fun-and-worthwhile/
+18:05:05	Warning: 	Moved Permanently for https://www.competethemes.com/ignite-live-demo/page/2/?paged=1
+18:05:05	Warning: 	File has moved from https://www.competethemes.com/ignite-live-demo/page/2/?paged=1 to https://www.competethemes.com/ignite-live-demo/
+
+HTTrack Website Copier/3.48-21 mirror complete in 14 minutes 44 seconds : 131 links scanned, 117 files written (3338693 bytes overall) [2069594 bytes received at 2341 bytes/sec], 1934528 bytes transferred using HTTP compression in 69 files, ratio 31%, 1.8 requests per connection
+(No errors, 27 warnings, 0 messages)
